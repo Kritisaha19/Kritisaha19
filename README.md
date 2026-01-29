@@ -6,7 +6,7 @@ I’m currently strengthening my foundations in Java, Python, and problem-solvin
 I’m always curious, always learning, and continuously improving my coding and analytical skills. 🚀
 <br><br>
 
-🔧 Skills & Interests
+**🔧 Skills & Interests**
 <br>
 Languages: Java, Python
 <br>
@@ -19,7 +19,7 @@ Tools: Git, GitHub, VS Code
 Currently Learning: Advanced DSA, ML algorithms, system design basics
 <br><br>
 
-🌱 What I’m Working On
+**🌱 What I’m Working On**
 <br>
 Improving DSA through consistent practice (LeetCode & core logic)
 <br>
@@ -28,12 +28,12 @@ Academic + personal projects in AI and data analysis
 Writing clearer, more efficient, and well-structured code
 <br><br>
 
-🎯 Fun Fact
+**🎯 Fun Fact**
 <br>
 I debug my code like a detective… only to realize the bug was a missing condition I already knew about 😄
 <br><br>
 
-📫 Let’s Connect
+**📫 Let’s Connect**
 <br>
 Feel free to explore my repositories and reach out for collaboration or learning discussions!
 
