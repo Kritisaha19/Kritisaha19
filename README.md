@@ -1,6 +1,41 @@
 # 💫 About Me:
-Hi! I’m Kriti Saha, a Computer Science Engineering student with a strong interest in Data Structures & Algorithms, AI, and Data Science. I enjoy breaking down complex problems into simple logic and building projects that combine theory with real-world application.<br><br>I’m currently strengthening my foundations in Java, Python, and problem-solving, while actively working on academic and self-driven projects related to AI systems, data analysis, and algorithmic thinking. I believe in writing clean, understandable code and truly understanding why a solution works—not just making it pass test cases.<br><br>I’m always curious, always learning, and continuously improving my coding and analytical skills. 🚀<br><br>🔧 Skills & Interests<br><br>Languages: Java, Python<br><br>Core Concepts: Data Structures & Algorithms, OOP, DBMS, OS<br><br>Domains: AI & Machine Learning, Data Science, Problem Solving<br><br>Tools: Git, GitHub, VS Code<br><br>Currently Learning: Advanced DSA, ML algorithms, system design basics<br><br>🌱 What I’m Working On<br><br>Improving DSA through consistent practice (LeetCode & core logic)<br><br>Academic + personal projects in AI and data analysis<br><br>Writing clearer, more efficient, and well-structured code<br><br>I debug my code like a detective… only to realize the bug was a missing condition I already knew about<br><br>📫 Let’s Connect<br><br>Feel free to explore my repositories and reach out for collaboration or learning discussions!
+Hi! I’m Kriti Saha, a Computer Science Engineering student with a strong interest in Data Structures & Algorithms, AI, and Data Science. I enjoy breaking down complex problems into simple logic and building projects that combine theory with real-world application.
 
+I’m currently strengthening my foundations in Java, Python, and problem-solving, while actively working on academic and self-driven projects related to AI systems, data analysis, and algorithmic thinking. I believe in writing clean, understandable code and truly understanding why a solution works—not just making it pass test cases.
+
+I’m always curious, always learning, and continuously improving my coding and analytical skills. 🚀
+<br><br>
+
+🔧 Skills & Interests
+<br>
+Languages: Java, Python
+<br>
+Core Concepts: Data Structures & Algorithms, OOP, DBMS, OS
+<br>
+Domains: AI & Machine Learning, Data Science, Problem Solving
+<br>
+Tools: Git, GitHub, VS Code
+<br>
+Currently Learning: Advanced DSA, ML algorithms, system design basics
+<br><br>
+
+🌱 What I’m Working On
+<br>
+Improving DSA through consistent practice (LeetCode & core logic)
+<br>
+Academic + personal projects in AI and data analysis
+<br>
+Writing clearer, more efficient, and well-structured code
+<br><br>
+
+🎯 Fun Fact
+<br>
+I debug my code like a detective… only to realize the bug was a missing condition I already knew about 😄
+<br><br>
+
+📫 Let’s Connect
+<br>
+Feel free to explore my repositories and reach out for collaboration or learning discussions!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiyaysk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kriti-saha-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@kritisaha27) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/aflaneurbird/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritisaha27@gmail.com) 
