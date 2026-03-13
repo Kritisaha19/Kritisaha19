@@ -8,7 +8,7 @@ I’m always curious, always learning, and continuously improving my coding and 
 
 **🔧 Skills & Interests**
 <br>
-Languages: Java, Python
+Languages: Java, Python, C++
 <br>
 Core Concepts: Data Structures & Algorithms, OOP, DBMS, OS
 <br>
