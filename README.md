@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 Hi! I’m Kriti Saha, a Computer Science Engineering student with a strong interest in Data Structures & Algorithms, AI, and Data Science. I enjoy breaking down complex problems into simple logic and building projects that combine theory with real-world application.
 
 I’m currently strengthening my foundations in Java, Python, and problem-solving, while actively working on academic and self-driven projects related to AI systems, data analysis, and algorithmic thinking. I believe in writing clean, understandable code and truly understanding why a solution works—not just making it pass test cases.
